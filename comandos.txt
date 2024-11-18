@@ -5,3 +5,4 @@
 9-cp ../catarroja/enero .
 10-cd ..
 11-cp -r catarroja/* paiporta
+12-rm paiporta/*ro
