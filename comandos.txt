@@ -1,1 +1,3 @@
 6-mkdir catarroja alfafar paiporta massanassa
+7.1-cd catarroja
+7.2-touch enero febrero marzo  
