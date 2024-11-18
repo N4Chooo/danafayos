@@ -2,4 +2,5 @@
 7.1-cd catarroja
 7.2-touch enero febrero marzo
 8-cd ../alfafar
-9.cp ../catarroja/enero .
+9-cp ../catarroja/enero .
+10-cd ..
